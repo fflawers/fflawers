@@ -113,7 +113,7 @@
 <div align="center">
 
 
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fflawers&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -121,5 +121,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----------
-
-Credit: [ElioChiu](https://github.com/ElioChiu)
